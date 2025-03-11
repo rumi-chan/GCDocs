@@ -27,7 +27,6 @@ jobs:
       - name: Set environment variables
         run: |
             echo "DENO_DEPLOY_PROJECT=rumi-gcdocs" >> $GITHUB_ENV
-          fi
 
       - name: Install NodeJS
         uses: actions/setup-node@v3
