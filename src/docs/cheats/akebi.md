@@ -11,7 +11,7 @@
 
 - First release date: August 29, 2022
 
-- Date of death: September 30, 2022
+- Date of death: January 18, 2023
 :::
 
 <p align="center">
