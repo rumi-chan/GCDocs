@@ -1,0 +1,54 @@
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  env-prod:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: https://wiki.rumi.dev
+    steps:
+      - run: echo >nul
+
+  deploy:
+    permissions:
+      id-token: write
+      contents: read
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set environment variables
+        run: |
+            echo "DENO_DEPLOY_PROJECT=rumi-gcdocs" >> $GITHUB_ENV
+          fi
+
+      - name: Install NodeJS
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Install Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Install Deno deployctl
+        run: deno install -gArf jsr:@deno/deployctl
+
+      - name: Build project
+        run: |
+          npm i -g pnpm
+          pnpm install
+          pnpm build
+
+      - name: Deploy to Deno Deploy
+        run: |
+          cd src/.vitepress
+          deployctl deploy --prod --project=$DENO_DEPLOY_PROJECT ./serve.ts --token ${{ secrets.DENO_DEPLOY_TOKEN }}
