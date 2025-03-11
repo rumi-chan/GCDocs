@@ -45,7 +45,7 @@ jobs:
         run: |
           npm i -g pnpm
           pnpm install
-          pnpm build
+          pnpm run docs:build
 
       - name: Deploy to Deno Deploy
         run: |
