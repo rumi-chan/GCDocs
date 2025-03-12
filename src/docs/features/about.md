@@ -14,3 +14,5 @@ This has become a tradition between forks. Partly to respect the previous devs.
 <img src="/cheats/kebabi/kebabi.webp">
 
 <img src="/cheats/korepi/firstrelease.webp">
+
+<img src="/cheats/korepi/about1.webp">

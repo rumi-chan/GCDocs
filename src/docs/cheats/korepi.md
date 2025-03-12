@@ -245,3 +245,8 @@ But the fact is, the old keys can still be used when moving to the new server.
 This drama is really long and stupid so I won't write about it in detail.
 
 ## Images
+![](/cheats/korepi/about1.webp)
+
+![](/cheats/korepi/about2.webp)
+
+![](/cheats/korepi/about3.webp)
