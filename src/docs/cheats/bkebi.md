@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Bkebi | Unavailable/Private
+# Bkebi | Unavailable
 
 ::: info
 - Founder, main developer and updater: Yuuri
