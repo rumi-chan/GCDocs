@@ -73,12 +73,12 @@ After [Akebi](/cheats/akebi) switched to [paid](/cheats/akebi#switched-to-paid),
 - [[Debug]](#) Constellation Modifier by **@hellomykami**
 - [[Debug]](#) Talent Modifier by **@hellomykami**
 - Auto Puzzle - **@KyuubiRan**
-- Prevent Screenshot by **@GodLeaveMe**
+- Prevent Screenshot by **@Yuuri**
 - Monster Changer & [[Debug]](#) Monster skill modify by **@NctimeAza**
 - Elemental Aura by **@RainAfterDark** & **@KyuubiRan**
 - [[Debug]](#) Attack Teammate (Friendly Fire) by **@NctimeAza**
-- Support Luac by **@GodLeaveMe**
-- CustomTeleport 2.0 by **@KyuubiRan** & **@GodLeaveMe**
+- Support Luac by **@Yuuri**
+- CustomTeleport 2.0 by **@KyuubiRan** & **@Yuuri**
 - Improve anti drag back by **@hellomykami**
 - [[Debug]](#) Fast TP improve by **@NctimeAza**
 - Blessing of Moon skipping when Custom Teleport by **@hellomykami**
@@ -90,7 +90,7 @@ After [Akebi](/cheats/akebi) switched to [paid](/cheats/akebi#switched-to-paid),
 - Show GM icon by **@Gktwo**
 - [[Debug]](#) Mute console by **@MemesPwr**
 - Remote Utility and Entity Spawner
-   - Remote Combine - **@GodLeaveMe**
+   - Remote Combine - **@Yuuri**
    - [[Debug]](#) Enter Dungeon - **@hellomykami**
    - SpawnNPC & Summon NPC - **@RainAfterDark**
    - Traveler Elements Change & Oculus Worship - **@NctimeAza**
