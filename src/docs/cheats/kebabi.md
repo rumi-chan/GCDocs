@@ -12,7 +12,7 @@
 - Date of death: June 1, 2023
 :::
 
-After [Bkebi](/cheats/bkebi) and [Acrepi](/cheats/acrepi) stopped developing at the same patch, users could no longer use free cheats. 
+Once [Bkebi](/cheats/bkebi) and [Acrepi](/cheats/acrepi) ceased development at the same patch, free cheats were no longer available to users.
 
 Fortunately, one of [Bkebi's contributors](/cheats/bkebi#contributors) - **!root**, maintained it under a new name, **Kebabi**.
 

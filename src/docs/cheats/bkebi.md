@@ -33,7 +33,7 @@ After [Akebi](/cheats/akebi) switched to [paid](/cheats/akebi#switched-to-paid),
 **Bkebi** is also more optimized by the developers as they have rewritten the shit code of the [Akebi](/cheats/akebi) base, giving users the best experience.
 
 ## Contributors
-- **HK** - **Yuuri#1153** (**@GodLeaveMe**)
+- **HK** - **Yuuri#1153**
 - **RU** - **!root#7334** (**@MemesPwr**)
 - **CN** - **airshelf#3137** (**@airshelf**)
 - **CN** - **Alukym#0615** (**@Alukym**)

@@ -18,7 +18,7 @@ outline: deep
 
 
 ## Initiation
-After [Bkebi's incident](/cheats/bkebi#tragic-incident), **Yuuri** and a few remaining devs continued to develop it under a new name - **Sakura**.
+Following [Bkebi's incident](/cheats/bkebi#tragic-incident), **Yuuri** and a few remaining devs continued to develop it under a new name - **Sakura**.
 
 However, to avoid repeating mistakes, **Sakura** is only available to a very small number of users
 (< 50 users). Therefore, very few people know about it.

@@ -12,7 +12,7 @@
 - Date of death: March 31, 2023
 :::
 
-After [Akebi](/cheats/akebi) switched to [paid](/cheats/akebi#switched-to-paid), two former [Akebi contributors](/cheats/akebi#contributors-3-4-version-src-akebigccontributors): [ayy lmao](https://github.com/lilmayofuksu) and [nitro](https://github.com/nitrog0d) developed a free version based on the source code of the old [Akebi](/cheats/akebi) called **Acrepi**.
+Later [Akebi](/cheats/akebi) switched to [paid](/cheats/akebi#switched-to-paid), two former [Akebi contributors](/cheats/akebi#contributors-3-4-version-src-akebigccontributors): [ayy lmao](https://github.com/lilmayofuksu) and [nitro](https://github.com/nitrog0d) developed a free version based on the source code of the old [Akebi](/cheats/akebi) called **Acrepi**.
 
 <p align="center">
 <img src="/cheats/acrepi/logo.webp">
