@@ -7,7 +7,7 @@ outline: deep
 ::: info
 - Founder, main developer and updater: Yuuri
 
-- Game version: 3.6 ~ undefined
+- Game version: 3.6 ~ 3.8
 :::
 
 > Sakura is a cheat which doesn't exists.
