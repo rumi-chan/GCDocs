@@ -10,6 +10,8 @@ outline: deep
 - Game version: 3.6 ~ now
 
 - First release date: May 11, 2023
+
+- Date of death: August 12, 2025
 :::
 
 <div align="center">
