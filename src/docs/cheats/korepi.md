@@ -5,9 +5,9 @@ outline: deep
 # Korepi | Free/Paid
 
 ::: info
-- Founder, main developer and updater: Strigger (3.6 ~ 4.5), Etoshinya (4.6 ~ now)
+- Founder, main developer and updater: Strigger (3.6 ~ 4.5), Etoshinya (4.6 ~ 5.8)
 
-- Game version: 3.6 ~ now
+- Game version: 3.6 ~ 5.8
 
 - First release date: May 11, 2023
 
